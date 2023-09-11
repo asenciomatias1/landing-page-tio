@@ -4,14 +4,14 @@ body {
 /* Estilo para el primer título */
 h1 {
     font-size: 36px;
-    color: green;
+    color: red;
     font-weight: bold;
 }
 
 /* Estilo para el segundo título */
 h2 {
     font-size: 24px;
-    color: #3399FF;
+    color: yellow;
 }
 
 /* Estilo para el tercer título */
