@@ -1,0 +1,26 @@
+body {
+    background-color: #F5F5F5; 
+}
+/* Estilo para el primer título */
+h1 {
+    font-size: 36px;
+    color: #FF5733;
+    font-weight: bold;
+}
+
+/* Estilo para el segundo título */
+h2 {
+    font-size: 24px;
+    color: #3399FF;
+}
+
+/* Estilo para el tercer título */
+h3 {
+    font-size: 18px;
+    color: #33CC33;
+}
+.container {
+    display: grid;
+    place-items: center;
+    height: 95vh; /* Establece la altura de la cuadrícula al 100% del viewport */
+}
