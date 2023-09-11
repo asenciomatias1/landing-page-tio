@@ -5,7 +5,7 @@ body {
 h1 {
     font-size: 36px;
     color: red;
-    font-weight: bold;
+    font-weight:100;
 }
 
 /* Estilo para el segundo título */
